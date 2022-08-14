@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sharma-Pranav
-- 👀 I’m interested in Machine Learning in general and Deep Learning in Particular
+- 👀 I’m interested in Machine Learning in general and Deep Learning in particular
 - 🌱 I’m currently learning to work with github efficiently.
 - 💞️ I’m looking to collaborate on Researching new ideas
 - 📫 How to reach me : topranav@outlook.com
