@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sharma-Pranav
+- 👋 Hi, I’m Pranav Sharma
 - 👀 I’m interested in Machine Learning in general and Deep Learning in particular
-- 🌱 I’m currently learning to work with github efficiently.
-- 💞️ I’m looking to collaborate on Research
+- 🌱 I’m currently working on industrial use cases.
+- 💞️ I’m looking to collaborate on Research and Consultations for industry.
 - 📫 How to reach me : topranav@outlook.com
 
 <!---
